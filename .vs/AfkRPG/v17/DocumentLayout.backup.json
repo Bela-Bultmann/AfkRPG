@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belab\\source\\repos\\AfkRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95502984-90C7-4327-AB37-D35EFE3ECAFE}|AfkRPG.Api\\AfkRPG.Api.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.api\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95502984-90C7-4327-AB37-D35EFE3ECAFE}|AfkRPG.Api\\AfkRPG.Api.csproj|solutionrelative:afkrpg.api\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95502984-90C7-4327-AB37-D35EFE3ECAFE}|AfkRPG.Api\\AfkRPG.Api.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95502984-90C7-4327-AB37-D35EFE3ECAFE}|AfkRPG.Api\\AfkRPG.Api.csproj|solutionrelative:afkrpg.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F9EEB-3EE6-49D4-94C4-20E3A46F7DB9}|AfkRPG.Test\\AfkRPG.Test.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.test\\databasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F9EEB-3EE6-49D4-94C4-20E3A46F7DB9}|AfkRPG.Test\\AfkRPG.Test.csproj|solutionrelative:afkrpg.test\\databasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.application\\infrastructure\\afkrpgcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|solutionrelative:afkrpg.application\\infrastructure\\afkrpgcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95502984-90C7-4327-AB37-D35EFE3ECAFE}|AfkRPG.Api\\AfkRPG.Api.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.api\\namegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95502984-90C7-4327-AB37-D35EFE3ECAFE}|AfkRPG.Api\\AfkRPG.Api.csproj|solutionrelative:afkrpg.api\\namegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95502984-90C7-4327-AB37-D35EFE3ECAFE}|AfkRPG.Api\\AfkRPG.Api.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.api\\unitgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95502984-90C7-4327-AB37-D35EFE3ECAFE}|AfkRPG.Api\\AfkRPG.Api.csproj|solutionrelative:afkrpg.api\\unitgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|solutionrelative:afkrpg.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.application\\model\\threat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|solutionrelative:afkrpg.application\\model\\threat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F9EEB-3EE6-49D4-94C4-20E3A46F7DB9}|AfkRPG.Test\\AfkRPG.Test.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.test\\afkrpgcontexttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F9EEB-3EE6-49D4-94C4-20E3A46F7DB9}|AfkRPG.Test\\AfkRPG.Test.csproj|solutionrelative:afkrpg.test\\afkrpgcontexttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F9EEB-3EE6-49D4-94C4-20E3A46F7DB9}|AfkRPG.Test\\AfkRPG.Test.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F9EEB-3EE6-49D4-94C4-20E3A46F7DB9}|AfkRPG.Test\\AfkRPG.Test.csproj|solutionrelative:afkrpg.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.application\\model\\battle_units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|solutionrelative:afkrpg.application\\model\\battle_units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.application\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|solutionrelative:afkrpg.application\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.application\\model\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|solutionrelative:afkrpg.application\\model\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.application\\model\\battles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|solutionrelative:afkrpg.application\\model\\battles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|c:\\users\\belab\\source\\repos\\afkrpg\\afkrpg.application\\model\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB3F909-4F1B-4408-A965-854CC6E92B96}|AfkRPG.Application\\AfkRPG.Application.csproj|solutionrelative:afkrpg.application\\model\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Api\\UnitGenerator.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Api\\UnitGenerator.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Api\\UnitGenerator.cs",
+              "RelativeToolTip": "AfkRPG.Api\\UnitGenerator.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:07:36.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NameGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Api\\NameGenerator.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Api\\NameGenerator.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Api\\NameGenerator.cs",
+              "RelativeToolTip": "AfkRPG.Api\\NameGenerator.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:51:53.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Api\\UserApi.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Api\\UserApi.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Api\\UserApi.cs",
+              "RelativeToolTip": "AfkRPG.Api\\UserApi.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:39:52.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Class1.cs",
+              "RelativeToolTip": "AfkRPG.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:37:16.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Api\\Program.cs",
+              "RelativeToolTip": "AfkRPG.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:08:32.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Test\\DatabaseTest.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Test\\DatabaseTest.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Test\\DatabaseTest.cs",
+              "RelativeToolTip": "AfkRPG.Test\\DatabaseTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:55:00.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AfkRPGContext.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Infrastructure\\AfkRPGContext.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Application\\Infrastructure\\AfkRPGContext.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Infrastructure\\AfkRPGContext.cs",
+              "RelativeToolTip": "AfkRPG.Application\\Infrastructure\\AfkRPGContext.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAA+wFgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:54:47.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "users.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Model\\users.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Application\\Model\\users.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Model\\users.cs",
+              "RelativeToolTip": "AfkRPG.Application\\Model\\users.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:53:47.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "units.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Model\\units.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Application\\Model\\units.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Model\\units.cs",
+              "RelativeToolTip": "AfkRPG.Application\\Model\\units.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:53:42.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "threat.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Model\\threat.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Application\\Model\\threat.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Model\\threat.cs",
+              "RelativeToolTip": "AfkRPG.Application\\Model\\threat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:53:41.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "battle_units.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Model\\battle_units.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Application\\Model\\battle_units.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Model\\battle_units.cs",
+              "RelativeToolTip": "AfkRPG.Application\\Model\\battle_units.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:53:36.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AfkRPGContextTest.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Test\\AfkRPGContextTest.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Test\\AfkRPGContextTest.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Test\\AfkRPGContextTest.cs",
+              "RelativeToolTip": "AfkRPG.Test\\AfkRPGContextTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:00:25.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Test\\UnitTest1.cs",
+              "RelativeToolTip": "AfkRPG.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:00:22.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "battles.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Model\\battles.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Application\\Model\\battles.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Model\\battles.cs",
+              "RelativeToolTip": "AfkRPG.Application\\Model\\battles.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:53:37.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "floor.cs",
+              "DocumentMoniker": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Model\\floor.cs",
+              "RelativeDocumentMoniker": "AfkRPG.Application\\Model\\floor.cs",
+              "ToolTip": "C:\\Users\\belab\\source\\repos\\AfkRPG\\AfkRPG.Application\\Model\\floor.cs",
+              "RelativeToolTip": "AfkRPG.Application\\Model\\floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:53:41.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 252,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
